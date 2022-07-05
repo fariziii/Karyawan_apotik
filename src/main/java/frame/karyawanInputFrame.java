@@ -35,27 +35,7 @@ public class karyawanInputFrame extends JFrame {
 //            int id_jenis_kelamain;
 //            int id_shiff;
 //            int id_jabatan;
-//
-//            if(mrk == "Asus"){
-//                id_merk = 1;
-//            } else if(mrk == "Acer"){
-//                id_merk = 2;
-//            } else if(mrk == "Lenovo"){
-//                id_merk = 3;
-//            } else if(mrk == "HP"){
-//                id_merk = 4;
-//            } else {
-//                id_merk = 5;
-//            }
-//            if(cls == "Ultrabook"){
-//                id_class = 1;
-//            } else if(cls == "Gaming notebook"){
-//                id_class = 2;
-//            } else if(cls == "Notebook Mainstream"){
-//                id_class = 3;
-//            } else {
-//                id_class = 4;
-//            }
+
             if(nama.equals("")){
                 JOptionPane.showMessageDialog(
                         null,

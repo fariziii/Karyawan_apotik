@@ -11,7 +11,7 @@ public class Koneksi {
             Class.forName("com.mysql.cj.jdbc.Driver");
             System.out.println("Connecting..");
             connection = DriverManager.getConnection(
-                    "jdbc:mysql://localhost/jne",
+                    "jdbc:mysql://localhost/apotik",
                     "root",
                     "");
             System.out.println("Connected!");
